@@ -29,11 +29,3 @@ git clone https://github.com/shantanu0329/ContactForm.git
 
 <h3> Screenshot:</h3>
 <img src="https://user-images.githubusercontent.com/66966120/125250300-ec32c500-e2aa-11eb-8a50-31d4cf729d72.png" alt="Screenshot (19)" style="max-width:100%;">
-
-
-<h3> Demo </h3>
-
-<a href="https://github.com/shantanu0329/ContactForm.git">Demo</a>
-
-<br>
-
